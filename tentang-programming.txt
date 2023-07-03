@@ -7,6 +7,7 @@ Resolusi Programming Saya :
 - Pelajari Frontend Framework = VueJS, React JS
 - Pelajari Backend dengan Javascript = Node JS
 - Jika ingin mencoba, coba pelajari PHP dan Laravel 
+- Pelajari MongoDB dan MYSQL DB
 
 Thanks suatu saat gw bakal buka file ini, dan membaca ini dan akhirnya gw pelajarin walaupun butuh waktu tahunan untuk paham sama semua materi ini
 dan jangan lupa untuk buat PROJECT di setiap Materi belajarnya.
